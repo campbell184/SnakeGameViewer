@@ -1,1 +1,1 @@
-# SnakeGameViewer
+# Snake Game Viewer Project
