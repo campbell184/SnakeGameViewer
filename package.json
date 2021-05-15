@@ -4,9 +4,14 @@
   "author": "Campbell",
   "version": "0.0.1",
   "devDependencies": {
-    "jshint": "^2.6.0"
+    "express": "^4.10.6",
+    "jshint": "^2.6.0",
+    "mysql": "^2.18.1"
   },
   "scripts": {
     "test": "jshint hello.js"
+  },
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
   }
 }
